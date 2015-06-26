@@ -36,5 +36,5 @@ if __name__ == "__main__":
  #cam.command('recordstop')
  while(True):
   cam.command('stillsave') #also save a jpeg to the sdcard.
-  time.sleep(1.0)
+  time.sleep(0.5)
  
